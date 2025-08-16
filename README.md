@@ -6,9 +6,13 @@
 ### 👨‍💻 About Me
 - 🎯 AI Engineer from **Egypt**
 - 💡 Skilled in **LLMs, Generative AI, Fine-Tuning, and ML Pipelines**
-- 🧩 Experienced with **NLP, Computer Vision, and Data Engineering**
+- 🧩 Experienced with **NLP, Computer Vision, and Data Science**
 - 🌱 Always learning, always building 🚀
 - 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/alaa-ashraf-) | [Kaggle](https://www.kaggle.com/alaaashraf24)**
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=alaaashraf24&label=Profile%20Views&color=0e75b6&style=flat" alt="alaaashraf24" /> 
+</p>
 
 ---
 
@@ -27,14 +31,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> 
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
 </p>
-
----
-
-### 📌 Featured Projects
-- 🔹 [**Smart Trending Posts**](https://github.com/zyad-samy-tt/TT.Components.ITI.Smart.Trending_Posts) – ML-powered trending content detection  
-- 🔹 [**LLM Fine-Tuning Experiments**](#) – Applied fine-tuning on GPT-style models  
-- 🔹 [**Computer Vision Projects**](#) – Object detection, face recognition, and OCR  
-- 🔹 [**NLP Projects**](#) – Text classification, summarization, and chatbots  
 
 ---
 
